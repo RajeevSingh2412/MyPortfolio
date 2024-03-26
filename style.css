@@ -313,6 +313,10 @@ form .btn2{
     margin-top:20px;
     cursor:pointer;
 }
+form .btn3:active{
+    border:1px solid #ff004f;
+    background:#262626;
+}
 #msg{
     color:#61b752;
     margin-top:-40px;
