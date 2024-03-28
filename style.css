@@ -341,7 +341,7 @@ form .btn3:active{
 nav .fa-solid{
     display:none;
 }
-@media only screen and (max-width:600px){
+@media (max-width:600px){
     .logo{
         width:200px;
     }
